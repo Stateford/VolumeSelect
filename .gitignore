@@ -5,3 +5,4 @@ bin/
 obj/
 x64/
 *.csproj.user
+*.vcxproj.*
